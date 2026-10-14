@@ -13,3 +13,4 @@ python3 -m pip install -r requirements.txt --quiet 2>/dev/null
 
 # تشغيل النظام
 python3 main.py
+python3 main2.py
