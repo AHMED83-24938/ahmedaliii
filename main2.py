@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # جلب توكن البوت من متغيرات بيئة Railway
-TELEGRAM_TOKEN = os.getenv("BOT_TOKEN")
+TELEGRAM_TOKEN = os.getenv("BOT_TOKENN")
 
 # رابط خادم Ollama الخاص بك على Railway
 OLLAMA_URL = "https://Ollama-production-f9db.up.railway.app/api/chat"
