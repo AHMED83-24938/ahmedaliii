@@ -1,0 +1,319 @@
+[
+  {
+    "id": "1",
+    "name": "beIN SPORTS",
+    "image": "https://f.top4top.io/p_3804lcnvq1.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "beIN SPORTS 1 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "beIN SPORTS 2 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "beIN SPORTS 3 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "4",
+        "name": "beIN SPORTS 4 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "5",
+        "name": "beIN SPORTS 5 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "6",
+        "name": "beIN SPORTS 6 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "7",
+        "name": "beIN SPORTS 7 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "8",
+        "name": "beIN SPORTS 8 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "9",
+        "name": "beIN SPORTS 9 HD",
+        "image": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "10",
+        "name": "beIN SPORTS الإخبارية",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "11",
+        "name": "beIN SPORTS XTRA",
+        "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "قنوات SSC الرياضية",
+    "image": "https://j.top4top.io/p_3804z9vu61.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "SSC 1 HD",
+        "image": "https://j.top4top.io/p_3804z9vu61.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "SSC 2 HD",
+        "image": "https://j.top4top.io/p_3804z9vu61.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "SSC Extra 1",
+        "image": "https://j.top4top.io/p_3804z9vu61.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "قنوات STARZPLAY",
+    "image": "https://j.top4top.io/p_3805hdmpb1.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "STARZPLAY 1",
+        "image": "https://i.ibb.co/Fk7WLb2G/1.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "STARZPLAY 2",
+        "image": "https://i.ibb.co/23B6cTyL/2.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "STARZPLAY 3",
+        "image": "https://i.ibb.co/twz1K5Zq/3.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "أبوظبي الرياضية",
+    "image": "https://cityupload.io/2026/06/ADMNABUDHABICHANNELY2025MAR-title-logo-en-1-.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "أبوظبي الرياضية 1",
+        "image": "https://cityupload.io/2026/06/ABU-DHABI-1.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "أبوظبي الرياضية 2",
+        "image": "https://cityupload.io/2026/06/ABU-DHABI-2.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "الكأس الرياضية",
+    "image": "https://i.ibb.co/p61rC2kZ/logo.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "الكأس 1 HD",
+        "image": "https://www.alkass.net/images/new-1.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "الكأس 2 HD",
+        "image": "https://www.alkass.net/images/new-2.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "الكأس 3 HD",
+        "image": "https://www.alkass.net/images/new-3.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "4",
+        "name": "الكأس 4 HD",
+        "image": "https://www.alkass.net/images/new-4.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "5",
+        "name": "الكأس 5 HD",
+        "image": "https://www.alkass.net/images/new-5.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "دبي الرياضية",
+    "image": "https://cityupload.io/2026/06/Dubai-Sports-logo-2023.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "دبي الرياضية 1",
+        "image": "https://cityupload.io/2026/06/dub1.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "دبي الرياضية 2",
+        "image": "https://cityupload.io/2026/06/dub2.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "أون تايم سبورت ON",
+    "image": "https://cityupload.io/2026/06/icon_c727b.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "أون تايم سبورت 1",
+        "image": "https://cityupload.io/2026/06/ON-SPORTS-1.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "أون تايم سبورت Max",
+        "image": "https://logo.twoapistack.work/img/channels/live_tv_onsport2.png?v=1790526896",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "أون تايم سبورت Plus",
+        "image": "https://logo.twoapistack.work/img/channels/live_tv_onsport3.png?v=1790526908",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "قنوات العراق الرياضية",
+    "image": "https://cityupload.io/2026/06/logo_35ece.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "العراقية الرياضية",
+        "image": "https://cityupload.io/2026/06/iraqiasport.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "العراقية السريانية",
+        "image": "https://cityupload.io/2026/06/whatsapp-image-2024-12-29-at-115110-2-.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "باقة MBC وشاهد",
+    "image": "https://i.ibb.co/Y4B416tc/logo.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "MBC 1",
+        "image": "https://i.ibb.co/Y4B416tc/logo.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "MBC مصر",
+        "image": "https://i.ibb.co/Y4B416tc/logo.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "MBC دراما",
+        "image": "https://i.ibb.co/Y4B416tc/logo.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "4",
+        "name": "MBC Action",
+        "image": "https://i.postimg.cc/fWX9Sscs/djmcy05-8fc80d9d-267c-4001-b342-4046b174b577.png",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "قنوات الأخبار العربية",
+    "image": "https://i.postimg.cc/JhnM3yZ2/logo.webp",
+    "channels": [
+      {
+        "id": "1",
+        "name": "الجزيرة الإخبارية",
+        "image": "https://i.postimg.cc/JhnM3yZ2/logo.webp",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "العربية الحدث",
+        "image": "https://i.postimg.cc/JhnM3yZ2/logo.webp",
+        "direct_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+      },
+      {
+        "id": "3",
+        "name": "سكاي نيوز عربية",
+        "image": "https://i.postimg.cc/JhnM3yZ2/logo.webp",
+        "direct_url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "القنوات الإسلامية والقرآن",
+    "image": "https://f.top4top.io/p_3804lcnvq1.png",
+    "channels": [
+      {
+        "id": "1",
+        "name": "قناة القرآن الكريم (مكة)",
+        "image": "https://f.top4top.io/p_3804lcnvq1.png",
+        "direct_url": "https://5a47e923bbde4.streamlock.net/live/quran/playlist.m3u8"
+      },
+      {
+        "id": "2",
+        "name": "قناة السنة النبوية (المدينة)",
+        "image": "https://f.top4top.io/p_3804lcnvq1.png",
+        "direct_url": "https://5a47e923bbde4.streamlock.net/live/quran/playlist.m3u8"
+      }
+    ]
+  }
+]
